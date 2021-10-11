@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "telekinesis-lib", "telekinesis-lib\telekinesis-lib.csproj", "{6DDF12ED-0023-4A88-8341-A083DF7318F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelekinesisLib", "TelekinesisLib\TelekinesisLib.csproj", "{E560BB20-7B9E-4AD4-9CD2-D3EB305A1808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DDF12ED-0023-4A88-8341-A083DF7318F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DDF12ED-0023-4A88-8341-A083DF7318F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DDF12ED-0023-4A88-8341-A083DF7318F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DDF12ED-0023-4A88-8341-A083DF7318F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E560BB20-7B9E-4AD4-9CD2-D3EB305A1808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E560BB20-7B9E-4AD4-9CD2-D3EB305A1808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E560BB20-7B9E-4AD4-9CD2-D3EB305A1808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E560BB20-7B9E-4AD4-9CD2-D3EB305A1808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D801C41-7380-48D7-A249-F77AB296734B}
+	EndGlobalSection
+EndGlobal
